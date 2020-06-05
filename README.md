@@ -1,6 +1,6 @@
 # VirtualFit-App-prototype-created-using-Figma
 This app prototype is created with the idea to view how clothes will fit oneself while shopping online.
-The follwoing features were implemented with Figma:
+The following features were implemented with Figma:
 1. Prototyping
 2. Transitioning
 3. Enabling on click functionality
