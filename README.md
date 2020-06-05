@@ -11,7 +11,7 @@ The link to the app prototype:
 https://www.figma.com/proto/e8RlP99TTiCB1LLanjbDih/VirtualFit?node-id=112%3A30&scaling=scale-down
 
 References:
-http://dribbble.com/
-https://www.youtube.com/watch?v=t82XRda5DnY
-https://www.youtube.com/watch?v=PrSwK0Cpvfw
-https://www.figma.com/blog/introducing-overlays-taking-prototyping-to-the-next-layer/
+1. http://dribbble.com/
+2. https://www.youtube.com/watch?v=t82XRda5DnY
+3. https://www.youtube.com/watch?v=PrSwK0Cpvfw
+4. https://www.figma.com/blog/introducing-overlays-taking-prototyping-to-the-next-layer/
